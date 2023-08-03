@@ -1,5 +1,5 @@
-<h1 align="left">HI, I'm Aniket</h1> 
-<h2 align="right">Data Science Enthusiast</h2> 
+<h1 align="left">Hi, I'm Aniket</h1> 
+<h2 align="left">Data Science Enthusiast</h2> 
 <hr/>
 
 - 👋 Hi, I’m @AniketLokare2121
