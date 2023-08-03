@@ -1,6 +1,3 @@
-Hi I am Aniket
-
-
 - 👋 Hi, I’m @AniketLokare2121
 - 👀 I’m a tech enthusiast and an eager learner in the world of Computer Technology
 - 🌱 I’m currently learning Python programming used in the world of AI, Machine Learning and Data Science. 
