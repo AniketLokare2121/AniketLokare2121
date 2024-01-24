@@ -1,7 +1,6 @@
 <h1 align="left">Hi, I'm Aniket
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2 align="left">Data Science Enthusiast</h2> 
 <hr/>
 
 - 👋 Hi, I’m @AniketLokare2121
